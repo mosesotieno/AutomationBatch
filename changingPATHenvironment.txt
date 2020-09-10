@@ -1,0 +1,8 @@
+Changing the PATH environmment was quite trick until 10Sep2020
+
+Finally Worked!!!!
+
+Steps
+
+• Select Control Panel > User Accounts > User Accounts > Change my environment variables
+but in both cases you get no response.
