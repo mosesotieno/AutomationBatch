@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6CBA-F0CE
+
+ Directory of C:\BatchTutorials
+
+10/09/2020  10:43    <DIR>          .
+10/09/2020  10:43    <DIR>          ..
+10/09/2020  10:50    <DIR>          .git
+10/09/2020  09:48                44 .gitignore
+10/09/2020  09:54    <DIR>          .Rproj.user
+10/09/2020  10:50               930 01_tuts.bat
+10/09/2020  09:48                 0 01_tuts.txt
+10/09/2020  09:54               218 BatchTutorials.Rproj
+10/09/2020  10:51                 0 lists.txt
+10/09/2020  10:50             7,611 lists_E.txt
+               6 File(s)          8,803 bytes
+               4 Dir(s)   7,803,408,384 bytes free

@@ -1,0 +1,153 @@
+ Volume in drive E is Moses Hiss
+ Volume Serial Number is E6B2-5615
+
+ Directory of E:\
+
+15/04/2019  16:10    <DIR>          .Trash-1000
+30/08/2020  15:26    <DIR>          Adobe
+07/04/2020  09:53    <DIR>          After Effects
+14/02/2020  13:17    <DIR>          AGC2019
+13/02/2020  18:26    <DIR>          Android
+11/11/2016  09:10           164,734 Appendix 1_KEMRI_DSSQuestions_2016-09-29(LEO) Revised English.docx
+24/02/2020  13:45    <DIR>          Back up
+11/11/2019  09:26    <DIR>          Barcodes_Dreams
+05/04/2019  15:13    <DIR>          Barcodes_LBBS
+21/05/2020  15:46    <DIR>          Bishop Music
+01/04/2020  15:03    <DIR>          Books
+24/04/2020  08:48    <DIR>          Books Extra
+13/05/2020  13:35    <DIR>          Books NonPDF
+06/12/2019  14:36    <DIR>          CD ArcGIS10
+17/09/2019  11:58    <DIR>          Cleaning
+30/01/2020  13:55    <DIR>          Compressed
+12/07/2019  10:28    <DIR>          Condomless sex
+31/10/2019  07:41    <DIR>          COUPLES RETREAT 2019
+07/08/2020  20:49    <DIR>          Coursera
+14/08/2020  14:17    <DIR>          Coursera Tutorial
+03/09/2020  09:53    <DIR>          Coursera Tutorials Others
+04/09/2020  11:42    <DIR>          Cousera Materials
+03/06/2019  08:55    <DIR>          dagitty
+05/04/2019  15:11    <DIR>          data
+20/01/2020  09:43    <DIR>          Data Males
+11/11/2019  14:52    <DIR>          Data2019
+12/08/2020  15:37    <DIR>          DellXPS
+06/01/2020  08:23    <DIR>          DESKTOP
+05/04/2019  15:11    <DIR>          Diabetes
+07/06/2020  22:04    <DIR>          Disk D
+09/09/2019  10:41    <DIR>          Dissemination
+02/05/2020  15:52    <DIR>          Documentaries
+15/07/2020  09:26    <DIR>          Documents
+20/03/2020  10:17    <DIR>          Documents and Books
+12/03/2019  08:04    <DIR>          DOCUMENTS DESKTOP
+15/07/2020  10:15    <DIR>          Donloads PC
+17/06/2020  17:29    <DIR>          Downloads
+05/05/2019  19:09    <DIR>          DREAMS
+30/08/2020  14:13    <DIR>          Driverpack 17
+10/01/2019  10:10    <DIR>          Dropbox
+03/04/2020  14:58    <DIR>          Drum lessons
+06/04/2019  14:39    <DIR>          dss
+12/03/2020  09:56    <DIR>          DSS_Latest
+27/08/2019  13:56    <DIR>          Ebusakami
+13/01/2020  12:27    <DIR>          Epidem
+13/01/2020  12:27    <DIR>          Epidemiology
+13/08/2020  15:28    <DIR>          Faith_Viv
+01/04/2020  18:44    <DIR>          Form builder
+08/08/2020  01:02    <DIR>          Getting-and-Cleaning-Data
+06/01/2020  14:39    <DIR>          GitHub
+12/02/2020  16:36    <DIR>          Google Drive
+24/07/2020  15:07    <DIR>          Google Drive (moseoti@gmail.com)
+01/04/2019  12:06    <DIR>          GSS_2006_Panel_Stata
+03/04/2020  15:07    <DIR>          Hadley Wickham
+29/08/2019  09:48    <DIR>          HISS-Pentaho-Tools
+28/01/2020  14:38    <DIR>          hiss_repositories
+03/10/2018  23:57    <DIR>          Hisuite
+11/03/2020  21:20    <DIR>          HTML and CSS Tutorials
+10/01/2020  10:49    <DIR>          Huawei06jan20
+25/05/2020  12:50    <DIR>          IDM
+28/10/2019  09:21    <DIR>          KEMRI_Kisiany 2019 Spatial TRAINING
+23/09/2019  07:27    <DIR>          LBBS
+30/10/2018  09:12    <DIR>          LBBS DATA
+16/07/2020  16:06    <DIR>          LBBS Documents
+20/09/2019  14:52    <DIR>          LBBS STUDY
+06/12/2019  14:12    <DIR>          lbbs-survey-2018
+30/04/2019  09:05    <DIR>          lbbs_data
+17/05/2020  08:48    <DIR>          Lcc Audio Sermons Mp3
+17/05/2020  08:15    <DIR>          LCC VIDEO RECORDINGS
+20/03/2020  09:31    <DIR>          LCM
+11/04/2020  14:12    <DIR>          LCM Audio Recordings
+07/04/2020  09:56    <DIR>          LifeCM Preaching
+05/03/2019  16:00    <DIR>          LSTM 1040
+09/05/2019  08:59    <DIR>          Ma
+14/07/2020  16:30    <DIR>          Manuscript_writing
+25/09/2019  08:39    <DIR>          MOSEDNA
+15/04/2019  16:29    <DIR>          moses
+11/02/2020  19:38    <DIR>          Moses Otieno
+22/05/2020  11:29    <DIR>          motieno Documents
+16/05/2019  21:30    <DIR>          Music
+01/11/2019  19:30    <DIR>          Music Folder
+28/07/2020  15:04    <DIR>          mutuku
+02/12/2019  10:32    <DIR>          Mutuku_analysis
+24/02/2020  19:53    <DIR>          mwalimu-sacco
+12/02/2020  08:57    <DIR>          My Backup
+06/12/2019  14:48    <DIR>          My Downloads
+06/12/2019  13:31    <DIR>          Mydocs
+15/07/2020  12:06    <DIR>          New folder (2)
+26/01/2020  18:53    <DIR>          NNNN
+07/08/2020  18:06           101,238 Nyamweya et al_Microvascular complications of DM v1.docx
+26/08/2019  09:39    <DIR>          Other Docs
+07/06/2020  22:05    <DIR>          Other Documents
+29/11/2019  20:10    <DIR>          pdi-ce-8.1.0.0-365
+29/08/2019  17:12    <DIR>          pdi-ce-8.3.0.0-371
+27/09/2019  08:53    <DIR>          philista manuscript
+16/10/2019  11:46    <DIR>          Practice
+16/07/2019  15:43    <DIR>          PRACTS
+01/04/2020  14:30    <DIR>          Premier Pro
+12/04/2019  15:45    <DIR>          Presentation
+29/03/2020  22:52    <DIR>          Programs
+16/10/2019  11:47    <DIR>          Project
+16/10/2019  11:47    <DIR>          Projects
+26/07/2020  17:07       379,521,712 pycharm-professional-2020.1.2.exe
+01/07/2019  08:14    <DIR>          R data
+23/09/2019  07:54    <DIR>          Raw_LBBS
+16/03/2018  11:28    <DIR>          RecoveRx
+29/11/2018  09:55    <DIR>          SES
+06/05/2019  09:56    <DIR>          SESDATA
+19/06/2020  12:53    <DIR>          SETs latest clean data
+10/01/2020  16:04    <DIR>          SETS Sammy
+20/01/2020  10:51    <DIR>          SETs workspace
+01/09/2020  14:11    <DIR>          SETSDATA
+30/01/2020  14:30    <DIR>          SETSDATAHIV
+07/08/2020  12:41    <DIR>          setsr
+09/10/2018  14:46    <DIR>          shares
+15/07/2020  16:47    <DIR>          SQLSERVER2016
+27/08/2018  11:24    <DIR>          stata
+29/11/2018  23:16    <DIR>          stata-cookbook
+27/08/2019  13:33    <DIR>          stata-fundamentals
+29/08/2019  16:07    <DIR>          stata20180110
+27/08/2019  13:33    <DIR>          StataTraining
+30/01/2020  14:15    <DIR>          Study Tools
+23/04/2019  20:16    <DIR>          Syntax
+28/10/2019  09:09    <DIR>          Telegram Desktop
+28/02/2020  15:38    <DIR>          Template
+20/03/2020  19:36    <DIR>          Template Church
+27/03/2019  16:48    <DIR>          templates
+28/09/2019  14:37    <DIR>          THE BIBLE
+05/03/2019  17:24    <DIR>          themeforest-9102049-adore-church-responsive-html5-template
+07/05/2019  04:49    <DIR>          To_lbbs
+28/10/2019  16:35    <DIR>          Training Data
+16/03/2018  11:28    <DIR>          Transcend Elite
+28/09/2019  14:44    <DIR>          Tutorials
+06/01/2020  08:29    <DIR>          Tututorial
+08/09/2020  16:21    <DIR>          Ubuntu
+27/08/2019  15:23    <DIR>          Videos
+11/02/2020  18:23    <DIR>          Videos_check
+16/01/2020  18:43    <DIR>          Vincent STATA Training
+19/09/2019  12:00    <DIR>          VLRESULTS_LBBS
+01/04/2020  14:57    <DIR>          vMixStorage
+01/04/2020  18:34    <DIR>          Web Form Builder 5
+25/10/2019  09:45    <DIR>          Weights
+25/02/2019  13:22    <DIR>          Whatsapp
+20/02/2020  14:49    <DIR>          Windows Command Prompt
+24/05/2020  16:23    <DIR>          Wondershare Filmora 9.4.1.4 (x64) + Crack
+24/05/2020  15:32    <DIR>          Young Adults
+               3 File(s)    379,787,684 bytes
+             143 Dir(s)  97,141,448,704 bytes free
