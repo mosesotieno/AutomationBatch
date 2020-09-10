@@ -4,7 +4,7 @@
 
 :: Name: 01_tuts.bat
 
-:: Purpose: This batch file introduces me to writing batch scripts and commands 
+:: Purpose: Understatnding basic functionality of batch script 
 
 :: Author : Moses Otieno
 
@@ -14,6 +14,12 @@
 
 
 :: BODY
+
+:: Introduction 
+
+:: Batch Scripts are stored in simple text files containing lines with commands that get executed in sequence, :: one after the other. Scripting is a way by which one can alleviate this necessity by automating these 
+:: command sequences in order to make one’s life at the shell easier and more productive. 
+
 
 :: Remember that we can comment out using :: and Rem. @echo off helps hiding the comments from being printed 
 :: in the console. This script goes through the very introduction to commands in batch 
@@ -67,3 +73,6 @@ Rem echo %JAVA_HOME%
 
 set message=Hello World 
 echo %message%
+
+
+:: References https://www.tutorialspoint.com/batch_script/index.htm
